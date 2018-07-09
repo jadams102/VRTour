@@ -12,6 +12,9 @@ VR Sphere layout in Unity
 ![Nav system detail](/readmeImages/img1.jpg)
 Navigation system detail in Unity
 
+![In-app screenshot](/readmeImages/img3.jpg)
+Detail of info panels in initial scene
+
 ![In-app screenshot](/readmeImages/img2.jpg)
 In-app screenshot during test
 
@@ -39,7 +42,7 @@ In-app screenshot during test
 
 ## Support and contact details
 
-_Please contact  the creator through Github.com: joelaphoto_
+_Please contact the creator through Github.com: joelaphoto_
 
 ### License
 
