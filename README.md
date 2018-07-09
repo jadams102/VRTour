@@ -1,13 +1,10 @@
 # VR Tour
 
-VR Tour app for Gear VR and Google Cardboard
+Virtual Reality Tour app for Gear VR and Google Cardboard
 
 #### By **Joel Adams**
 
-## Description
-
-
-This app is a scalable virtual reality tour for Google Cardboard and Gear VR. The app allows a user to navigate through spheres with equirectangular 360 images mapped to the inside of the sphere. Each sphere contains four navigational buttons, for north, south, east, and west; these buttons move the user between spheres and only display in-app if they are assigned a landing sphere. To maximize compatibility with VR platforms the app uses a gaze based pointer system from the Google Cardboard SDK.
+This app is a scalable virtual reality tour for Google Cardboard and Gear VR. The app allows a user to navigate through spheres with equirectangular 360 images mapped to the inside of the sphere. Each sphere contains four navigational buttons, for north, south, east, and west; these buttons move the user between spheres and only display in-app if they are assigned a landing sphere. To maximize compatibility with VR platforms the app uses a gaze based pointer system.
 
 ![VR Sphere layout in Unity](/readmeImages/img.jpg)
 VR Sphere layout in Unity
@@ -22,18 +19,17 @@ In-app screenshot during test
 ## Current Features
 1. ViewSphere prefab to easily build multiple tours
 2. Sphere navigation system
+3. Interactive info panels
+4. Ambient audio for each sphere
 
 ## Planned Features
-1. Interactive info panels
-2. Mini-map to aid navigation between spheres.
+1. Mini-map to aid navigation between spheres.
+2. Fade in/out effect between spheres.
 
 *GitHub repo:* https://github.com/joelaphoto/VR Tour
 
-## Setup/Installation Requirements
-Code will be available later
-
 ## Known Bugs
-* Pixel-wide seam on viewsphere images.
+*None at this time
 
 ## Technologies Used
 * Unity
